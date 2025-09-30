@@ -26,4 +26,30 @@ This is a simple Guess the Number game built using Python. The program generates
 
 
 
+Snake-Water-Gun Game (Python)
+
+This is a simple Python implementation of the classic "Snake, Water, Gun" game — similar to Rock, Paper, Scissors.
+
+🎮 How the Game Works:
+- The computer randomly chooses one of:  
+  - s for Snake  
+  - w for Water  
+  - g for Gun  
+- The user is prompted to choose one as well.
+- The rules are:
+  - Snake drinks Water → Snake wins 🐍💧
+  - Gun shoots Snake → Gun wins 🔫🐍
+  - Water damages Gun → Water wins 💧🔫
+- If both choose the same item, it’s a tie.
+
+📄 Features:
+- Random computer choice using random.randint()
+- User input for their move
+- A function gamewin(comp, you) that determines the winner
+- Clear output messages showing choices and result
+
+✅ Technologies Used:
+- Python (standard library)
+
+
    
