@@ -26,7 +26,9 @@ This is a simple Guess the Number game built using Python. The program generates
 
 
 
-Snake-Water-Gun Game (Python)
+
+
+      Snake-Water-Gun Game (Python)
 
 This is a simple Python implementation of the classic "Snake, Water, Gun" game — similar to Rock, Paper, Scissors.
 
